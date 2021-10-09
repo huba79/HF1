@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Elso labor hazi feladat</string>
+    <string name="operandus1">Elso szam</string>
+    <string name="operandus2">Masodik szam</string>
+    <string name="egyenlo">=</string>
+    <string name="eredmeny">Eredmeny</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+</resources>
